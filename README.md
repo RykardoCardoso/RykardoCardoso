@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RykardoCardoso (@ricardojrhc on freecodecamp)
+- 👋 Hi, I’m @RykardoCardoso (@ricardojrhc at freecodecamp)
 - 👀 I’m interested in learning.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate in projects to do amazing things.
